@@ -1,0 +1,35 @@
+_repo: Letters-to-Dead-Authors_3319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Authors, English -- Biography'
+- !lcsh 'Authors -- Biography'
+- GITenberg
+tableOfContents: To W. M. Thackeray -- To Charles Dickens -- To Pierre de Ronsard
+  -- To Herodotus -- Epistle to Mr. Alexander Pope -- To Lucian of Samosata -- To
+  Maitre Francoys Rabelais -- To Jane Austen -- To Master Isaak Walton -- To M. Chapelain
+  -- To Sir John Manndeville, kt. -- To Alexandre Dumas -- To Theocritus -- To Edgar
+  Allan Poe -- To Sir Walter Scott, bart. -- To Eusebius of Caesarea -- To Percy Bysshe
+  Shelley --  To Monsieur de Molière, valet de chambre du roi -- To Robert Burns --
+  To Lord Byron -- To Omar Khayyám -- To Q. Horatius Flaccus.
+title: Letters to Dead Authors
+url: http://www.gutenberg.org/ebooks/3319
